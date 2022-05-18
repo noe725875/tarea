@@ -1,0 +1,218 @@
+html{
+    display: flex;
+    justify-content: center;
+}
+body{
+    width: 1100px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+header{
+    width: 1100px;
+    background-color: rgb(92, 236, 255);
+    height: 200px;
+    justify-content: center;
+}
+#logo{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(156, 12, 156);
+}
+#publicidad{
+    width: 200px;
+    height: 300px;
+    background-color: black;
+}
+
+ul{
+    display: flex;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+:link{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    background-color: royalblue;
+    color: white;
+    padding: 15px;
+}
+main{
+    display: flex;
+}
+article{
+    height: 810px;
+    width: 300px;
+    background-color: beige;
+
+}
+aside{
+    height: 810px;
+    width: 800px;
+    background-color: steelblue;
+}
+footer{
+    height: 200px;
+    width: 1100px;;
+    background-color: darkgray;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/************************************************************************************************************************/
+
+
+.caja1{
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 200px;
+    width: 700px;
+    background-color: rgb(188, 173, 196);
+    
+}
+.img{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+h1{
+    float: right;
+    margin-top: 20PX;
+    margin-right: 20px;
+    font-size: 50px;
+
+}
+.texto_1{
+    font-family: texto1;
+    float: right;
+    margin-top: 150px;
+    margin-right: -200px;
+    font-size: 30px;
+}
+
+/***********************************************************************************************************/
+.caja2{
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 200px;
+    width: 700px;
+    background-color: rgb(188, 173, 196);
+    
+}
+.img{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+h1{
+    float: right;
+    margin-top: 20PX;
+    margin-right: 20px;
+    font-size: 50px;
+
+}
+p{
+    float: right;
+    margin-top: 150px;
+    margin-right: -200px;
+    font-size: 30px;
+}
+/**********************************************************************************************************/
+.caja3{
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 200px;
+    width: 700px;
+    background-color: rgb(188, 173, 196);
+    
+}
+.img{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+h1{
+    float: right;
+    margin-top: 20PX;
+    margin-right: 20px;
+    font-size: 50px;
+
+}
+p{
+    float: right;
+    margin-top: 150px;
+    margin-right: -200px;
+    font-size: 30px;
+}
+
+.logo1{
+    height: 200px;
+    width: 300px;
+}
+/*************************************************************************************************************************/
+.anuncio_1{
+    height: 200px;
+    width: 300px;
+}
+.anuncio_2{
+    height: 200px;
+    width: 300px;
+}
+.anuncio_3{
+    height: 200px;
+    width: 300px;
+}
+.anuncio_4{
+    height: 200px;
+    width: 300px;
+}
+/*
+.menu{
+    float: right;
+    margin-top: 70PX;
+    margin-right:300px;
+    font-size: 50px;
+
+}
+*/
+nav{
+    width: 1100px;
+    height: 50px;
+    background-color: cornflowerblue;
+}
+ul{
+    display: flex;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+:link{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    background-color: royalblue;
+    color: white;
+    padding: 15px;
+}
+.menu{
+    float: right;
+    margin-top: 70PX;
+    margin-right: 300px;
+    font-size: 50px;
+}
